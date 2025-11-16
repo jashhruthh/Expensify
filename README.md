@@ -54,8 +54,8 @@ It helps users manage income, expenses, budgets, and visualize spending patterns
 ### ➕ Add Transaction
 ![Add Transaction](https://github.com/jashronix/Expensify/blob/main/screenshots/Add-Transaction.png)
 
-### 📝 Edit Transaction
-![Edit Transaction](https://github.com/jashronix/Expensify/blob/main/screenshots/Edit-Transaction.png)
+### 📝 Add Transaction
+![Edit Transaction](https://github.com/jashronix/Expensify/blob/main/screenshots/Add-Transaction.png)
 
 ### 📈 Analytics
 ![Analytics](https://github.com/jashronix/Expensify/blob/main/screenshots/Analytics.png)
