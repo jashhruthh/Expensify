@@ -146,4 +146,4 @@ Feel free to fork, star ⭐ the repo, or contribute!
 
 ## 👨‍💻 Author
 Jashruth K A  
-GitHub:https://github.com/jashronix
+GitHub:https://github.com/jashhruthh
